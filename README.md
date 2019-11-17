@@ -1,2 +1,2 @@
 # CMSChecker
-python cms.py site
+python cms.py site.txt
